@@ -1,1 +1,1 @@
-# Pazarama-iOS-Bootcamp
+# Pazarama iOS Bootcamp'inde yaptığım tüm projeler
