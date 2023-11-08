@@ -31,3 +31,20 @@
 | ----------- | ---------------- | ---------------- |
 | ![Main Screen](https://github.com/Yakupacs/PokedexApp/assets/73075252/c857407f-7095-4f9d-b322-0506b58dbe0f) | ![Favourite Screen](https://github.com/Yakupacs/PokedexApp/assets/73075252/1ca457d9-c9f1-471a-a688-73fb0a137534) | ![Favourite Screen](https://github.com/Yakupacs/PokedexApp/assets/73075252/3f73fed1-3195-483a-8736-6f1e354cc10e)
 
+
+
+
+<h1 align="center">
+     MovieHouse
+</h1>
+
+## Description
+<p>This application is the final project of the Pazarama iOS Bootcamp, developed as a team effort, and it involves listing and detailing Pokémon using data obtained from Pokeapi.com.</p>
+
+## Technologies and Libraries
+- Protocol Oriented Programming
+- URLSession
+- Programmatic UI
+- MVVM
+- Delegate Pattern
+- Unit Tests
