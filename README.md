@@ -52,3 +52,4 @@
 - MVVM
 - Delegate Pattern
 - Unit Tests
+- Alamofire
