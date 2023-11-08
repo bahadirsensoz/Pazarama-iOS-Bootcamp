@@ -1,0 +1,6 @@
+framework module Pods_MovieHouse {
+  umbrella header "Pods-MovieHouse-umbrella.h"
+
+  export *
+  module * { export * }
+}
